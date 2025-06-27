@@ -178,3 +178,11 @@ charity-trust-backend/
 ├── pom.xml
 └── README.md
 
+
+Tools required:
+* JDK - Java 17/21
+* IntelliJ / Eclipse
+* Maven
+* Github
+* Postman
+
