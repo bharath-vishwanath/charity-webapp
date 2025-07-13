@@ -180,8 +180,8 @@ charity-trust-backend/
 
 
 Tools required:
-* JDK - Java 17/21
-* IntelliJ / Eclipse
+* JDK - Java 24 - https://www.oracle.com/de/java/technologies/downloads/#jdk24-windows 
+* IntelliJ / Eclipse - https://www.jetbrains.com/de-de/idea/download/?section=windows 
 * Maven
 * Github
 * Postman
